@@ -1,6 +1,3 @@
--- Inf2d Assignment 1 2011-12 
--- PLEASE DO NOT SUBMIT THIS FILE
-
 module CSPframework where
 
 import Data.List
