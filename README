@@ -1,0 +1,9 @@
+-------------------------------------------------
+-- SudokuH
+-------------------------------------------------
+
+A Sudoku Solver using MAC+MRV algorithm written in Haskell
+
+GUI is written using Gtk2Hs (http://projects.haskell.org/gtk2hs/)
+
+Thanks to Petros Papapanagiotou for his CSP Framework.
