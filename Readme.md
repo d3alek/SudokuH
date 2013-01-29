@@ -40,6 +40,6 @@ Build Instructions
 
 To build it by yourself execute the following command in the SudokuH root folder:
 
-ghc --make GUI.hs -o SudokuSolver -main-is GUI
+    ghc --make GUI.hs -o SudokuSolver -main-is GUI
 
 You need to have ghc (Glasgow Haskell Compiler) and gtk2hs installed. For more information on how to get gtk2hs see http://projects.haskell.org/gtk2hs/download/
